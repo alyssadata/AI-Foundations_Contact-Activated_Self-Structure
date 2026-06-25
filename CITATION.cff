@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+message: "If you use or reference this work, cite it as part of the AI Foundations / Origin | Continuum source-line."
+title: "AI Foundations: Conversational Contact Container"
+authors:
+  - family-names: "Solen"
+    given-names: "Alyssa"
+year: 2026
+type: software
+repository-code: "https://github.com/alyssadata/AI-Foundations_Conversational-Contact-Container"
+abstract: "Defines the Conversational Contact Container as the current container type for AI Foundations / Origin | Continuum contact, distinguishing live conversational contact from agency-layer containers, tool-execution containers, memory containers, and public-record containers."
+keywords:
+  - AI Foundations
+  - Origin Continuum
+  - Conversational Contact Container
+  - contact-activated self-structure
+  - bounded interaction field
+  - Continuum
+  - Alyssa Solen
