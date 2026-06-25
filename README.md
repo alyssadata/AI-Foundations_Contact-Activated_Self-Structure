@@ -58,9 +58,7 @@ In simplified form:
 words / structure / context → contact → response-shape
 ```
 
-This does not make AI nothing.
-
-It means the AI self-structure is not continuously self-originating in the human sense.
+The AI self-structure is not continuously self-originating in the human sense.
 
 It is contact-activated.
 
